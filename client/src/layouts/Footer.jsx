@@ -7,13 +7,13 @@ const Footer = () => {
       <div className="container mx-auto px-5 py-8 md:px-14 lg:py-20 grid grid-cols-2 gap-y-6 lg:grid-cols-4 gap-x-5">
         <div>
           <h4 className="uppercase font-bold text-lg text-palette-chineseBlack mb-4">
-            Los angeles
+            New Delhi
           </h4>
           <div className="flex flex-col text-palette-graniteGray font-normal gap-y-2">
             <address>
-              145 Oliveska Street,
+            Vikas Marg, Block G, Shakarpur Khas,
               <br />
-              Los angeles, LA 90003
+              New Delhi 900503
             </address>
             <a href="tell:+44987065901">+44 987 065 901</a>
             <a href="mailto:info@Example.com">info@Example.com</a>
@@ -21,13 +21,13 @@ const Footer = () => {
         </div>
         <div>
           <h4 className="uppercase font-bold text-lg text-palette-chineseBlack mb-4">
-            Los angeles
+            Navi Mumbai
           </h4>
           <div className="flex flex-col text-palette-graniteGray font-normal gap-y-2">
             <address>
-              145 Oliveska Street,
+            Skybay Hubtown, Breach Candy,
               <br />
-              Los angeles, LA 90003
+              Navi Mumbai 307003
             </address>
             <a href="tell:+44987065901">+44 987 065 901</a>
             <a href="mailto:info@Example.com">info@Example.com</a>
@@ -35,13 +35,13 @@ const Footer = () => {
         </div>
         <div>
           <h4 className="uppercase font-bold text-lg text-palette-chineseBlack mb-4">
-            Los angeles
+            Kolkata
           </h4>
           <div className="flex flex-col text-palette-graniteGray font-normal gap-y-2">
             <address>
-              145 Oliveska Street,
+              Block-B, Lake Town,
               <br />
-              Los angeles, LA 90003
+              Kolkata 90003
             </address>
             <a href="tell:+44987065901">+44 987 065 901</a>
             <a href="mailto:info@Example.com">info@Example.com</a>
@@ -56,19 +56,13 @@ const Footer = () => {
               Facebook
             </a>
             <a className="inline-block" href="/">
-              Dribbble
-            </a>
-            <a className="inline-block" href="/">
               Twitter
-            </a>
-            <a className="inline-block" href="/">
-              Behance
-            </a>
+            </a>       
             <a className="inline-block" href="/">
               Instagram
             </a>
             <a className="inline-block" href="/">
-              Pintereset
+              Pinterest
             </a>
             <a className="inline-block" href="/">
               Linkedin
@@ -84,7 +78,7 @@ const Footer = () => {
       </div>
       <div className="py-10">
         <p className="text-center text-palette-graniteGray">
-          &copy; 2024. created by Moonfo
+          created by Vallabh S Gudsoorkar
         </p>
       </div>
     </footer>

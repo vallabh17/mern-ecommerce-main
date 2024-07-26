@@ -61,7 +61,7 @@ const Sidebar = () => {
           <ul className="hidden lg:block space-y-2">
             <li>
               <a
-                href="https://twitter.com/mmdrz003"
+                href="https://X.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -70,7 +70,7 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                href="https://github.com/mohammadrz003"
+                href="https://github.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -79,7 +79,7 @@ const Sidebar = () => {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/moonfo_dev/"
+                href="https://www.instagram.com"
                 target="_blank"
                 rel="noreferrer"
               >
